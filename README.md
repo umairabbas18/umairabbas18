@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @umairabbas18
-- 👀 I’m interested in Programming and development 
-- 🌱 I’m currently learning Machine learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning about Clean Tech
+- 💞️ I’m looking to collaborate on leveraging data to enhance battery efficiency
 - 📫 How to reach me https://www.linkedin.com/in/umair-abbas-80b9a8235
 
 <!---
