@@ -6,4 +6,4 @@ To utilize my knowledge and ideas in this field of Data Science, Data Visualizat
 
 Reach me on:
 -My profile in [LinkedIn](https://www.linkedin.com/in/umair-abbas-80b9a8235/)
--My [Gmail](mrumairsarwar@gmail.com) address
+
