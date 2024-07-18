@@ -8,6 +8,7 @@ Reach me on:
 -My profile in [LinkedIn](https://www.linkedin.com/in/umair-abbas-80b9a8235/)
 
 ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/city_lights/1-repos-per-language.svg)
+
 :writing_hand: I'm currently working on - Data Science & Machine Learning,
 
 :ear_of_rice: I'm currently learning - Deep learning, NLP, Computer Vision & Full-Stack web development.
