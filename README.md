@@ -7,8 +7,7 @@ To utilize my knowledge and ideas in this field of Data Science, Data Visualizat
 Reach me on:
 -My profile in [LinkedIn](https://www.linkedin.com/in/umair-abbas-80b9a8235/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umairabbas18&langs_count=2&layout=compact&hide=html&exclude_repo=repo1,repo2)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umairabbas18&langs_count=8)
 :writing_hand: I'm currently working on - Data Science & Machine Learning,
 
 :ear_of_rice: I'm currently learning - Deep learning, NLP, Computer Vision & Full-Stack web development.
